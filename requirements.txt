@@ -7,8 +7,8 @@ voila
 ipywidgets
 
 # pip install -r requirements.txt
-#tensorboard>=2.4.1
-#seaborn>=0.11.0
+tensorboard>=2.4.1
+seaborn>=0.11.0
 matplotlib>=3.2.2
 numpy>=1.18.5
 opencv-python-headless==4.2.0.32
