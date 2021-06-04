@@ -6,7 +6,6 @@ fastcore==1.3.2
 voila
 ipywidgets
 
-opencv-python matplotlib pillow pycocotools PyYAML scipy tqdm tensorboard
 # pip install -r requirements.txt
 #tensorboard>=2.4.1
 #seaborn>=0.11.0
