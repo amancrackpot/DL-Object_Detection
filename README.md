@@ -5,6 +5,10 @@ In many factory environments, when employees enter a designated area, they must 
 
 This project shows a solution which can be used to issue an alert  when an employee has been detected and is not wearing a helmet in a designated area
 
+The code needed to recreate the training data 
+and train the model is detailed in the https://github.com/amancrackpot/DL-Object_Detection/ in the object_detection.ipynb notebook.
+
+
 ## Training Metrics
 ![Train metrics](https://github.com/amancrackpot/DL-Object_Detection/blob/main/Results/Annotation%202021-06-13%20130329.png?raw=true)
 
