@@ -5,7 +5,7 @@ In many factory environments, when employees enter a designated area, they must 
 
 This project shows a solution which can be used to issue an alert  when an employee has been detected and is not wearing a helmet in a designated area
 
-A simple deployed web app for this : https://mybinder.org/v2/gh/amancrackpot/DL-Object_Detection/main?urlpath=%2Fvoila%2Frender%2FDeployment.ipynb
+## Simple WebApp : https://mybinder.org/v2/gh/amancrackpot/DL-Object_Detection/main?urlpath=%2Fvoila%2Frender%2FDeployment.ipynb
 
 The code needed to recreate the training data 
 and train the model is detailed in the https://github.com/amancrackpot/DL-Object_Detection/ in the object_detection.ipynb notebook.
