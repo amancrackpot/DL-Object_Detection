@@ -8,6 +8,8 @@ This project shows a solution which can be used to issue an alert  when an emplo
 The code needed to recreate the training data 
 and train the model is detailed in the https://github.com/amancrackpot/DL-Object_Detection/ in the object_detection.ipynb notebook.
 
+A simple deployed web app for this : ![Link](https://mybinder.org/v2/gh/amancrackpot/DL-Object_Detection/main?urlpath=https%3A%2F%2Fgithub.com%2Famancrackpot%2FDL-Object_Detection%2Fblob%2Fmain%2FDeployment.ipynb)
+
 
 ## Training Metrics
 ![Train metrics](https://github.com/amancrackpot/DL-Object_Detection/blob/main/Results/Annotation%202021-06-13%20130329.png?raw=true)
