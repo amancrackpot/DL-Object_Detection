@@ -3,9 +3,6 @@ The goal of this object detection is to detect a hard-hat/construction helmet
 In many factory environments, when employees enter a designated area, they must be wearing proper Equoments such as a construction helmet. 
 This project shows a solution which can be used to issue an alert  when an employee has been detected and is not wearing a helmet in a designated area
 
-## Simple WebApp available at : <a href="https://mybinder.org/v2/gh/amancrackpot/DL-Object_Detection/main?urlpath=%2Fvoila%2Frender%2FDeployment.ipynb">Go to this link</a>
-![demo](https://github.com/amancrackpot/DL-Object_Detection/blob/main/Results/object-webapp.gif)
-
 #### The code needed to recreate the training data and train the model is detailed in the https://github.com/amancrackpot/DL-Object_Detection/blob/main/object_detection.ipynb
 
 ## Training Metrics
